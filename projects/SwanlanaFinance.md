@@ -5,7 +5,7 @@ title: "SWANLANA"
 logline: "Swanlana is a social DEX and NFT Marketplace."
 cta: "https://swanlana.com/"
 logo: /img/SwanlanaFinance.svg
-category: nft, metaplex
+category: defi, dex, nft, metaplex
 status: live
 website: https://www.swanlana.com/
 twitter: https://twitter.com/Swan_Solana

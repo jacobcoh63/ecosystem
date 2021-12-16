@@ -1,11 +1,11 @@
 ---
 slug: "runnode"
 date: "2021-05-11"
-title: "Run Node"
+title: "RunNode"
 logline: "RunNode is a scaling solution built for Solana developers powered by $RUN."
 cta: "https://runnode.com/"
 category: app
-logo: /img/runnode.svg
+logo: /img/runnode.png
 status: building
 website: https://runnode.com/
 twitter: https://twitter.com/RunNodes
@@ -13,4 +13,8 @@ telegram: https://t.me/runnode
 discord: https://discord.gg/V2f74X8Zrt
 ---
 
-RunNode will have a dual revenue structure that is innovative to the industry. They will host a staking solution for users to stake their crypto assets in a non-custodial way to act as validators on their respective networks. Beyond that, RunNode will also build an API that will tap into those validator nodes so that they can both act as a validator and as a developer portal.
+RunNode is a Solana RPC Node Provider that allows developers to connect and get RPC access in just a few minutes. The RunNode node RPC architecture allows for high throughput and unlimited scalability with geoDNS capabilities. 
+
+There are FREE developer plans available to get your project started and we can help you scale as necessary as your project grows!
+
+Get your project started in just a few minutes. 

@@ -6,7 +6,7 @@ logline: "Plutos Network is a cross-chain synthetic issuance and derivative trad
 cta: https://twitter.com/PlutosNetwork
 category: defi
 logo: /img/plutosnetwork.svg
-status: building
+status: live
 website: https://plutos.network/
 twitter: https://twitter.com/PlutosNetwork
 telegram: https://t.me/plutosnetwork
